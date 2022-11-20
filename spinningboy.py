@@ -1,9 +1,17 @@
 import os
+import time
 
 from math import sin
 from math import cos # importing 99.998% pure methamphetamine
 
 print("Starting Donut")
+time.sleep(1)
+print(".")
+time.sleep(1)
+print(".")
+time.sleep(1)
+print(".")
+time.sleep(3)
 
 def main():
     a=0

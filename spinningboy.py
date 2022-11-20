@@ -44,7 +44,7 @@ def main():
 
                 x = int(40+30*mess*(cosi*cosj2*cosB-t*sinB))
                 y = int(11+15*mess*(cosi*cosj2*sinB +t*cosB))
-                o = int(x+width*y
+                o = int(x+width*y)
                 N = int(8*((sinj*sinA-sini*cosj*cosA)*cosB-sini*cosj*sinA-sinj*cosA-cosi *cosj*sinB))
                         
                 if 0<y<height and 0<x<width and z[o] < mess:

@@ -55,7 +55,7 @@ def main():
                         
                 if 0<y<height and 0<x<width and z[o] < mess:
                     z[o]=mess
-                    screen[o]="AllahuAllah"[N if N>0 else 0]
+                    screen[o]=".,-~:;=!*#$@"[N if N>0 else 0]
 
         # print 
         os.system(clear)
